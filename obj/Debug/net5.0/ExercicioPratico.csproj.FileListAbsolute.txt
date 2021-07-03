@@ -1,0 +1,16 @@
+C:\Users\Leleh\source\repos\ExercicioPratico\ExercicioPratico\bin\Debug\net5.0\ExercicioPratico.exe
+C:\Users\Leleh\source\repos\ExercicioPratico\ExercicioPratico\bin\Debug\net5.0\ExercicioPratico.deps.json
+C:\Users\Leleh\source\repos\ExercicioPratico\ExercicioPratico\bin\Debug\net5.0\ExercicioPratico.runtimeconfig.json
+C:\Users\Leleh\source\repos\ExercicioPratico\ExercicioPratico\bin\Debug\net5.0\ExercicioPratico.runtimeconfig.dev.json
+C:\Users\Leleh\source\repos\ExercicioPratico\ExercicioPratico\bin\Debug\net5.0\ExercicioPratico.dll
+C:\Users\Leleh\source\repos\ExercicioPratico\ExercicioPratico\bin\Debug\net5.0\ref\ExercicioPratico.dll
+C:\Users\Leleh\source\repos\ExercicioPratico\ExercicioPratico\bin\Debug\net5.0\ExercicioPratico.pdb
+C:\Users\Leleh\source\repos\ExercicioPratico\ExercicioPratico\obj\Debug\net5.0\ExercicioPratico.csproj.AssemblyReference.cache
+C:\Users\Leleh\source\repos\ExercicioPratico\ExercicioPratico\obj\Debug\net5.0\ExercicioPratico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leleh\source\repos\ExercicioPratico\ExercicioPratico\obj\Debug\net5.0\ExercicioPratico.AssemblyInfoInputs.cache
+C:\Users\Leleh\source\repos\ExercicioPratico\ExercicioPratico\obj\Debug\net5.0\ExercicioPratico.AssemblyInfo.cs
+C:\Users\Leleh\source\repos\ExercicioPratico\ExercicioPratico\obj\Debug\net5.0\ExercicioPratico.csproj.CoreCompileInputs.cache
+C:\Users\Leleh\source\repos\ExercicioPratico\ExercicioPratico\obj\Debug\net5.0\ExercicioPratico.dll
+C:\Users\Leleh\source\repos\ExercicioPratico\ExercicioPratico\obj\Debug\net5.0\ref\ExercicioPratico.dll
+C:\Users\Leleh\source\repos\ExercicioPratico\ExercicioPratico\obj\Debug\net5.0\ExercicioPratico.pdb
+C:\Users\Leleh\source\repos\ExercicioPratico\ExercicioPratico\obj\Debug\net5.0\ExercicioPratico.genruntimeconfig.cache
